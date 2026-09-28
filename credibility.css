@@ -1,0 +1,2 @@
+.overview-grid .card:first-child .legend{display:none}
+@media(max-width:780px){.head-actions .btn[data-action="passport"],.head-actions .btn[data-action="back-batch"]{display:inline-flex}}
